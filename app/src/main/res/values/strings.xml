@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="chuchu">CHUCHU</string>
+    <string name="location">Location:</string>
+    <string name="distance_from_ust">Distance from UST:</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+</resources>
